@@ -1,0 +1,106 @@
+body { 
+  margin-right: 15%; 
+  margin-left: 15%;
+}
+
+.navbar {
+  margin-right: 15%; 
+  margin-left: 15%;
+  border: 1px solid rgba(0,0,0,0.2);
+}
+
+.navbar-brand {
+ margin-left: 5%;
+}
+
+.navbar-right {
+  padding-right: 5%;
+}
+
+.jumbotron {
+  background: url(/Users/jazloves2smile/Desktop/portfolio_project/images/image_14.jpg);
+  margin-top: 10%;
+  padding-right: 5%;
+  padding-left: 5%;
+  border-radius: 10px;
+}
+
+.shadow {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.content {
+  color: white;
+  text-align: center;
+  letter-spacing: 0.3em;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  text-shadow: 0px 4px 3px rgba(255,255,255,0.4),
+                 0px 8px 13px rgba(255,255,255,0.1),
+                 0px 18px 23px rgba(255,255,255,0.1);
+}
+
+h3 {
+  margin-bottom: 20px;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.thumbnail {
+  box-shadow: 0 5px 5px rgba(0,0,0,0.22);
+}
+
+.featured-work {
+  letter-spacing: 0.1em;
+  text-align: left;
+  padding-left: 5%;
+  padding-bottom: 1%;
+}
+
+.upcoming-projects {
+  letter-spacing: 0.1em;
+  text-align: left;
+  padding-left: 5%;
+  padding-bottom: 1%;
+}
+
+.project-name {
+  text-align: center;
+}
+
+.row {
+  padding-right: 5%;
+  padding-left: 5%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.thumbnail {
+  border-radius: 10px;
+}
+
+.image {
+  border-radius: 5%;
+}
+
+.social-media {
+  font-size: 24px;
+  text-align: center;
+}
+
+i {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+hr {
+    width: 80%;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
