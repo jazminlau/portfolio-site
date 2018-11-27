@@ -45,6 +45,11 @@ body {
     color: #FFF;
 }
 
+.card-title {
+    color: #4E4E4E;
+    font-weight: 400;
+}
+
 #mainNavbar {
     font-size: 1.5rem;
     font-weight: 100;    
